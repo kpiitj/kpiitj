@@ -27,8 +27,14 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java"/>
+    <img src="https://skillicons.dev/icons?i=git"/>
   </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=c"/>
   </a>
@@ -36,11 +42,11 @@
     <img src="https://skillicons.dev/icons?i=cpp"/>
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html"/>
+    <img src="https://skillicons.dev/icons?i=java"/>
   </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=css"/>
-  </a>
+</p>
+
+<p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=mysql"/>
   </a>
@@ -48,16 +54,22 @@
     <img src="https://skillicons.dev/icons?i=kafka"/>
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=spring"/>
-  </a>
-  <a>
-    <img src="https://skillicons.dev/icons?i=hibernate">
+    <img src="https://skillicons.dev/icons?i=elasticsearch"/>
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="https://skillicons.dev/icons?i=spring"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=hibernate"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=aws"/>
   </a>
   <a href="">
     <img src="https://skillicons.dev/icons?i=azure"/>
@@ -65,26 +77,31 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=gcp"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=css"/>
+  </a>
+</p>
+
+
+<p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=docker"/>
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=elasticsearch"/>
-  </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=git"/>
-  </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=grafana"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes"/>
   </a>
   <a href="">
     <img src="https://skillicons.dev/icons?i=jenkins"/>
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=grafana"/>
+  </a>
 </p>
 
 <br />
