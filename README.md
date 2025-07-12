@@ -50,6 +50,9 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=spring"/>
   </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=hibernate">
+  </a>
 </p>
 
 <p align="center">
